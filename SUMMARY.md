@@ -6,7 +6,6 @@
 ## 初识
 
 * [基本概念](01-basics/concepts.md)
-* [链/网络](01-basics/chains.md)
 
 ## DeFi
 
