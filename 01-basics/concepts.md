@@ -289,6 +289,18 @@ Layer 2 和 侧链都解决了主链上网络拥堵以及手续费贵的问题�
 目前来说 NFT 现在主要的应用就是在链游上，装备、头像等都可以做成 NFT，毕竟这些东西都具有唯一性。
 
 
+#### 预言机 (Oracle)
+
+**预言机**不是预测未来趋势，而是在知道输入的情况下，输出是确定的，所以叫做预言机也没啥问题。在区块链
+中，预言机主要指代的是价格预言机，毕竟价格是交易的关键。知名的 **Oracle** 是 **[Chainlink][chainlink] （EVM 生态）**
+以及 **[Pyth][pyth] (Solana 生态)**。
+
+[chainlink]: https://chain.link/
+[pyth]: https://www.pyth.network/
+
+> Oracel：不是甲骨文科技公司 (Oracle)，而是加密中的一个术语，指代的是给定对应的输入，就会得到
+> 对应的输出。
+
 #### DAO (Decentralized Autonomous Organization)
 
 完整的名字叫做**去中心化自制组织**，其实通俗来讲就是**社区**，因为区块链的数据都是去中心化的，
@@ -314,6 +326,17 @@ Layer 2 和 侧链都解决了主链上网络拥堵以及手续费贵的问题�
 
 > Uniswap: DeFi 的领头项目之一，可以说是 Uniswap 引发了 DeFi Summer，即 2022 年的一波热潮，
 > 推动了整个区块链的链上交易。这个会在 DeFi 的章节中详细介绍。
+
+
+#### DePIN
+
+DePIN, 全称为 Decentralized Physical Infrastructure Networks。即将区块链和硬件结合，
+某种程度上来说，共享单车也是个 DePIN，只不过是没有用加密货币。
+
+#### xFi
+
+x：指代任意的方向，如 DeFi, GameFi, SocialFi 等。其实就是两个方向的组合，或者说是某个方向
+结合了 Finance（一般是指有其对应的代币之类的）。
 
 #### RWA (Real World Asset)
 
