@@ -6,6 +6,7 @@
 ## 初识
 
 * [基本概念](01-basics/concepts.md)
+* [最佳实践](01-basics/practicals.md)
 
 ## DeFi
 
