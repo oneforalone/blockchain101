@@ -11,7 +11,7 @@
 > Note: 正常来说，只推荐运行 Bitcoin 的节点，其他的节点成本太贵，不适合普通人。
 
 因为节点本质其实也是个软件，而软件开发又有不同的编程语言，所以节点的软件也会有多种，对于 Bitcoin
-来说，官方的是 Bitcoin-Core，最下版本的下载地址为: https://bitcoin.org/en/bitcoin-core。
+来说，官方的是 Bitcoin-Core，最下版本的下载地址为: <https://bitcoin.org/en/bitcoin-core>。
 如果需要下载指定版本，可以在 [BitcoinCore.org][bc-org] 选择对应的版本下载安装。
 
 [bc-org]: https://bitcoincore.org/en/releases
@@ -104,7 +104,7 @@ Binance 了，毕竟是第一大交易所，维权什么的会好一点。
 
   [bluewallet]: https://bluewallet.io
 
-当然，比特币官网也有对应的工具从多个角度对比钱包，你可以根据自己的需求的钱包，具体参考：https://bitcoin.org/en/choose-your-wallet
+当然，比特币官网也有对应的工具从多个角度对比钱包，你可以根据自己的需求的钱包，具体参考：<https://bitcoin.org/en/choose-your-wallet>
 
 #### EVM-ecosystem
 
@@ -172,12 +172,12 @@ Binance 了，毕竟是第一大交易所，维权什么的会好一点。
 
 #### Bitcoin
 
-作为区块链的核心支柱，也是发展最久的，比特币的浏览器有很多，比较常用·的是以下几个：
+作为区块链的核心支柱，也是发展最久的，比特币的浏览器有很多，比较常用的是以下几个：
 
-- mempool: https://mempool.space
-- blockstream: https://blockstream.info
-- blockchain: https://www.blockchain.com/explorer/assets/btc
-- bitaps: https://bitaps.com
+- mempool: <https://mempool.space>
+- blockstream: <https://blockstream.info>
+- blockchain: <https://www.blockchain.com/explorer/assets/btc>
+- bitaps: <https://bitaps.com>
 
 其中 mempool 的体验最佳，同时也是多数人的首选。
 
@@ -186,8 +186,8 @@ Binance 了，毕竟是第一大交易所，维权什么的会好一点。
 EVM 生态的链太多，每个链都有自己单独的一个浏览器，不过基本都是和以太坊的类似，而以太坊的浏览器
 其实就两个：
 
-- etherscan: https://etherscan.io
-- blockscout: https://www.blockscout.com
+- etherscan: <https://etherscan.io>
+- blockscout: <https://www.blockscout.com>
 
 etherscan 是最老牌的，blockscout 是后续新起的，blockscout 相比于 etherscan 是它支持多链
 查询，其他的基本没什么差别，主要就是 UI 界面的不同，etherscan 比较复古一点，blockscout 比较
@@ -197,12 +197,12 @@ etherscan 是最老牌的，blockscout 是后续新起的，blockscout 相比于
 
 Solana 主要的浏览器就以下三个：
 
-- solscan: https://solscan.io
-- solana explorer: https://explorer.solana.com
-- SolanaFM: https://solana.fm
+- solscan: <https://solscan.io>
+- solana explorer: <https://explorer.solana.com>
+- SolanaFM: <https://solana.fm>
 
 其中 solscan 是 etherscan 团队做的，延续了 etherscan 的风格，用户体验式会比其他两个更好。
 官方的 solana explorer 对开发者比较友好一点，有开发者友好的 TX 解析。
 
-对于浏览器来说基本都是大同小异，一般是查看一笔交易在**什么时候**从**哪个地址**转了**多少** **币**
-到**另外一个地址**。可以自己都体验一下，然后选择一个自己喜欢的就好。
+对于浏览器来说基本都是大同小异，一般是查看一笔交易在**什么时候**从**哪个地址**转了**多少**
+**币**到**另外一个地址**。可以自己都体验一下，然后选择一个自己喜欢的就好。
